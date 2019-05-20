@@ -1,0 +1,7 @@
+{
+  "name": "formtest-post-contracts",
+  "dependencies": {
+    "@architect/data": "^2.0.17",
+    "@architect/functions": "^1.13.7"
+  }
+}

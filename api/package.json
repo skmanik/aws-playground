@@ -1,0 +1,24 @@
+{
+  "name": "arc-example-login-flow",
+  "version": "1.0.0",
+  "author": "Brian LeRoux <b@brian.io>",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arc-repos/arc-example-login-flow"
+  },
+  "dependencies": {
+    "@architect/architect": "^4.4.9",
+    "@architect/functions": "^1.11.1"
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true,
+    "tabWidth": 2,
+    "useTabs": false,
+    "trailingComma:": "es5",
+    "bracketSpacing": false,
+    "endOfLine": "lf",
+    "printWidth": 1000
+  }
+}
